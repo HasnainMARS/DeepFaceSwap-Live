@@ -29,9 +29,8 @@ It is designed to be **modular, extensible, and educational**, making it easy to
 - ⚙️ **Modular Pipeline**  
   Easily replace the face detector (e.g., SCRFD ONNX for GPU-based detection) or extend preprocessing/postprocessing steps.  
 
----
 
-## 📂 Project Structure
 
 A suggested layout for organizing the project files:
+
 
